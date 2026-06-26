@@ -219,9 +219,9 @@ bank-customer-churn-analysis
 
 ## Recommendations
 
-![Recommendation](Dashboard/Recommendation.png)
+![Recommendation](Report/Recommendation.png)
 
-![Recommendations1](Dashboard/Recommendation1.png)
+![Recommendations1](Report/Recommendation1.png)
 
 
 
