@@ -195,25 +195,25 @@ bank-customer-churn-analysis
 
 ## Executive Overview
 
-![Executive Overview](dashboard/ExecutiveOverview.jpg)
+![Executive Overview](dashboard/Executive_Overview.jpg)
 
 ---
 
 ## Customer Analysis
 
-![Customer Analysis](dashboard/CustomerAnalysis.jpg)
+![Customer Analysis](dashboard/Customer_Analysis.jpg)
 
 ---
 
 ## Product Analysis
 
-![Product Analysis](dashboard/ProductAnalysis.jpg)
+![Product Analysis](dashboard/Product_Analysis.jpg)
 
 ---
 
 ## Financial Analysis
 
-![Financial Analysis](dashboard/FinancialAnalysis.jpg)
+![Financial Analysis](dashboard/Financial_analysis.jpg)
 
 ---
 
@@ -229,7 +229,7 @@ bank-customer-churn-analysis
 
 # 📄 Full Report
 
-[View Full Report](report/Bank%20Customer%20Churn%20Analysis.pdf)
+[View Full Report](report/churn_dashboard.pdf)
 
 ---
 
@@ -237,10 +237,8 @@ bank-customer-churn-analysis
 
 **Van Serick Bouanga Latchybou**
 
-Aspiring Data Analyst
+Junior Data Analyst
 
 Google Data Analytics Professional Certificate
 
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+GitHub: https://github.com/vanserick
