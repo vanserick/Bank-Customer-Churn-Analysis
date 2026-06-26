@@ -195,7 +195,7 @@ bank-customer-churn-analysis
 
 ## Executive Overview
 
-![Executive_Overview](Dashboard/Executive_Overview.png)
+![Excecutive_Overview](Dashboard/Excecutive_Overview.png)
 
 ---
 
