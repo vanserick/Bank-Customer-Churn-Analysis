@@ -1,3 +1,7 @@
+![SQL](https://img.shields.io/badge/SQL-Used-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Used-yellow)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Project-green)
+
 # Bank-Customer-Churn-Analysis
 This project analyzes customer churn in a retail banking environment using SQL and Power BI. The objective is to identify the factors associated with customer attrition, quantify the financial impact of churn, and provide actionable business recommendations to improve customer retention.
 
