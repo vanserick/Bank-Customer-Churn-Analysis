@@ -195,33 +195,33 @@ bank-customer-churn-analysis
 
 ## Executive Overview
 
-![Executive_Overview](dashboard/Executive_Overview.jpg)
+![Executive_Overview](Dashboard/Executive_Overview.jpg)
 
 ---
 
 ## Customer Analysis
 
-![Customer_Analysis](dashboard/Customer_Analysis.jpg)
+![Customer_Analysis](Dashboard/Customer_Analysis.jpg)
 
 ---
 
 ## Product Analysis
 
-![Product_Analysis](dashboard/Product_Analysis.jpg)
+![Product_Analysis](Dashboard/Product_Analysis.jpg)
 
 ---
 
 ## Financial Analysis
 
-![Financial_analysis](dashboard/Financial_analysis.jpg)
+![Financial_analysis](Dashboard/Financial_analysis.jpg)
 
 ---
 
 ## Recommendations
 
-![Recommendation1](dashboard/Recommendation.png)
+![Recommendation1](Dashboard/Recommendation.png)
 
-![Recommendations2](dashboard/Recommendation1.png)
+![Recommendations2](Dashboard/Recommendation1.png)
 
 
 
@@ -229,7 +229,7 @@ bank-customer-churn-analysis
 
 # 📄 Full Report
 
-[View Full Report](report/churn_dashboard.pdf)
+[View Full Report](Report/churn_dashboard.pdf)
 
 ---
 
